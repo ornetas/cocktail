@@ -1,8 +1,6 @@
 package lt.ornetas.cocktail.service;
 
-import lt.ornetas.cocktail.repository.CocktailRepository;
 import lt.ornetas.cocktail.repository.IngredientRepository;
-import lt.ornetas.cocktail.repository.model.Cocktail;
 import lt.ornetas.cocktail.repository.model.Ingredient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
